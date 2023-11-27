@@ -5,13 +5,13 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of personal projects 
 
-[A](#a) - [B](#b)
+[A](#a) - [C](#c)
 
 
 ## A <a id="a"></a>
   
-## B <a id="b"></a>
-
+## C <a id="c"></a>
+- [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 
 
 ## Collection of projects from Frontend Mentor
