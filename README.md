@@ -1,20 +1,21 @@
 # Projects Directory (Updating...)
 This GitHub repository serves as a central directory, guiding you through my diverse projects and making it easy to explore the range of work I've completed.
 
+- [Collection of personal projects](#collection-of-personal-projects)
+- [Collection of projects from Frontend Mentor](#collection-of-frontendmentor-projects)
 
+## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
-## Collection of personal projects 
-
-[A](#a) - [C](#c)
-
-
-## A <a id="a"></a>
+[C](#c) - [T](#t)
   
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 
+## T <a id="t"></a>
+- [Text Three Match](https://github.com/Patzi275/text-match-three-cli) - A text-based matching game inspired by games like Candy Crush 
 
-## Collection of projects from Frontend Mentor
+
+## Collection of projects from Frontend Mentor <a id="collection-of-frontendmentor-projects"></a>
 
 [S](#sF) - [T](#tF)
 
