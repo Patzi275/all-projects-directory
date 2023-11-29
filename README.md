@@ -17,7 +17,10 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of projects from Frontend Mentor <a id="collection-of-frontendmentor-projects"></a>
 
-[S](#sF) - [T](#tF)
+[N](#nF) - [S](#sF) - [T](#tF)
+
+## N <a id="nF"></a>
+- [PUBLIC ARCHIVE] [Newsletter Sign Up With Success Message](https://github.com/Patzi275/newsletter-sign-up-with-success-message-frontendmentor) - This is the solution to the "Newsletter Sign Up With Success Message" on Frontend Mentor a little personalized
 
 ## S <a id="sF"></a>
 - [PUBLIC ARCHIVE] [SunnySide Agency](https://github.com/Patzi275/sunnyside-agency-landing-page-frontendmentor) - landing page made with HTML, Tailwind Css & Vanilla JavaScript
