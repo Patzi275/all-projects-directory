@@ -11,6 +11,10 @@ This GitHub repository serves as a central directory, guiding you through my div
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 
+## S <a id="s"></a>
+- [Square Fall](https://github.com/Patzi275/pygame-playground/tree/main/square_fall) - a fast-paced and challenging game where the objective is to avoid falling squares (made with Pygame)
+- [Square Shift](https://github.com/Patzi275/pygame-playground/tree/main/square_shift) - a casual game made using pygame
+
 ## T <a id="t"></a>
 - [Text Three Match](https://github.com/Patzi275/text-match-three-cli) - A text-based matching game inspired by games like Candy Crush
 - [Tic Tac Toe | MinMax](https://github.com/Patzi275/pygame-playground/tree/main/tic_tac_toe) - The classic pygame game of Tic Tac Toe  with an AI opponent using the Minimax algorithm
