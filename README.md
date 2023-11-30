@@ -6,13 +6,14 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
-[C](#c) - [T](#t)
+[C](#c) - [S](#s) - [T](#t)
   
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 
 ## T <a id="t"></a>
-- [Text Three Match](https://github.com/Patzi275/text-match-three-cli) - A text-based matching game inspired by games like Candy Crush 
+- [Text Three Match](https://github.com/Patzi275/text-match-three-cli) - A text-based matching game inspired by games like Candy Crush
+- [Tic Tac Toe | MinMax](https://github.com/Patzi275/pygame-playground/tree/main/tic_tac_toe) - The classic pygame game of Tic Tac Toe  with an AI opponent using the Minimax algorithm
 
 
 ## Collection of projects from Frontend Mentor <a id="collection-of-frontendmentor-projects"></a>
