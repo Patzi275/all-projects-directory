@@ -10,7 +10,7 @@ This GitHub repository serves as a central directory, guiding you through my div
   
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
-- [Chess Java](https://github.com/Patzi275/chess-java) - Customizable chess game in Java swing
+- [Chess Java](https://github.com/Patzi275/chess-java) - customizable chess game in Java swing using famous design patterns
 
 ## S <a id="s"></a>
 - [Square Fall](https://github.com/Patzi275/pygame-playground/tree/main/square_fall) - a fast-paced and challenging game where the objective is to avoid falling squares (made with Pygame)
