@@ -1,4 +1,4 @@
-# Projects Directory (🚧 In editing...)
+# Projects Directory (🚧 In editing...) 
 This GitHub repository serves as a central directory, guiding you through my diverse public projects and making it easy to explore the range of work I've completed.
 
 - [Collection of personal projects](#collection-of-personal-projects)
