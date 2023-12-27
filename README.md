@@ -6,12 +6,16 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
-[C](#c) - [S](#s) - [T](#t)
+[C](#c) - [M](#m) - [S](#s) - [T](#t)
   
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 - [Chess Java](https://github.com/Patzi275/chess-java) - customizable chess game in Java swing using design patterns
 
+## M <a id="m"></a>
+- [Mini Jukebox](https://github.com/Patzi275/mini-jukebox) - a music player in a small and discret window made using Qt5
+  
+- https://github.com/Patzi275/mini-jukebox
 ## S <a id="s"></a>
 - [Square Fall](https://github.com/Patzi275/pygame-playground/tree/main/square_fall) - a fast-paced and challenging game where the objective is to avoid falling squares (made with Pygame)
 - [Square Shift](https://github.com/Patzi275/pygame-playground/tree/main/square_shift) - a casual game made using pygame
