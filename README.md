@@ -14,8 +14,7 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## M <a id="m"></a>
 - [Mini Jukebox](https://github.com/Patzi275/mini-jukebox) - a music player in a small and discret window made using Qt5
-  
-- https://github.com/Patzi275/mini-jukebox
+
 ## S <a id="s"></a>
 - [Square Fall](https://github.com/Patzi275/pygame-playground/tree/main/square_fall) - a fast-paced and challenging game where the objective is to avoid falling squares (made with Pygame)
 - [Square Shift](https://github.com/Patzi275/pygame-playground/tree/main/square_shift) - a casual game made using pygame
