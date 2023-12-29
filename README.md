@@ -11,6 +11,7 @@ This GitHub repository serves as a central directory, guiding you through my div
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 - [Chess Java](https://github.com/Patzi275/chess-java) - customizable chess game in Java swing using design patterns
+- [Cpprun](https://github.com/Patzi275/cpprun) - a command-line tool for quickly compiling and running C++ programs with customizable options.
 
 ## M <a id="m"></a>
 - [Mini Jukebox](https://github.com/Patzi275/mini-jukebox) - a music player in a small and discret window made using Qt5
