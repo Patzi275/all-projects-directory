@@ -6,7 +6,7 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
-[C](#c) - [M](#m) - [S](#s) - [T](#t)
+[C](#c) - [M](#m) - [S](#s) - [T](#t) 
   
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
