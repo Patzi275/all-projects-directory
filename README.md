@@ -2,8 +2,8 @@
 This GitHub repository serves as a central directory, guiding you through my diverse public projects and making it easy to explore the range of work I've completed.  
 
 
-- [Collection of personal projects ](#collection-of-personal-projects-)
-- [Collection of projects from Frontend Mentor ](#collection-of-projects-from-frontend-mentor-)
+- [Collection of personal projects ](#collection-of-personal-projects)
+- [Collection of projects from Frontend Mentor ](#collection-of-projects-from-frontend-mentor)
 
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
