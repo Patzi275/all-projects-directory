@@ -1,8 +1,17 @@
 # Projects Directory (🚧 In editing...)
 This GitHub repository serves as a central directory, guiding you through my diverse public projects and making it easy to explore the range of work I've completed.  
 
-- [Collection of personal projects](#collection-of-personal-projects)
-- [Collection of projects from Frontend Mentor](#collection-of-frontendmentor-projects)
+- [Projects Directory (🚧 In editing...)](#projects-directory--in-editing)
+  - [Collection of personal projects ](#collection-of-personal-projects-)
+  - [C ](#c-)
+  - [M ](#m-)
+  - [S ](#s-)
+  - [T ](#t-)
+  - [Collection of projects from Frontend Mentor ](#collection-of-projects-from-frontend-mentor-)
+  - [N ](#n-)
+  - [S ](#s--1)
+  - [T ](#t--1)
+
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
