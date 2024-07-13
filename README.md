@@ -8,12 +8,15 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
-[C](#c) - [M](#m) - [S](#s) - [T](#t) 
+[C](#c) - [N](#n) - [M](#m) - [S](#s) - [T](#t) 
   
 ## C <a id="c"></a>
 - [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 - [Chess Java](https://github.com/Patzi275/chess-java) - customizable chess game in Java swing using design patterns
 - [Cpprun](https://github.com/Patzi275/cpprun) - a command-line tool for quickly compiling and running C++ programs with customizable options.
+
+## N <a id="n"></a>
+- [PUBLIC ARCHIVE] [New year resolutions 2024](https://github.com/Patzi275/new-year-resolutions-2024) - Collaborative note board
 
 ## M <a id="m"></a>
 - [Mini Jukebox](https://github.com/Patzi275/mini-jukebox) - a music player in a small and discret window made using Qt5
