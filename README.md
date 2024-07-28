@@ -8,10 +8,12 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
-[C](#c) - [N](#n) - [M](#m) - [S](#s) - [T](#t) 
+[A](#a) - [C](#c) - [N](#n) - [M](#m) - [S](#s) - [T](#t) 
   
+## A <a id="a"></a>
+- [PUBLIC ARCHIVE] [Artplatforma](https://github.com/Patzi275/artplatforma) - implementation of a designer event landing page by tubik on dribbble
 ## C <a id="c"></a>
-- [Chat app ui](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
+- [Chat app](https://github.com/Patzi275/chat-app-nextjs-ui) - chat page made with Nextjs
 - [Chess Java](https://github.com/Patzi275/chess-java) - customizable chess game in Java swing using design patterns
 - [Cpprun](https://github.com/Patzi275/cpprun) - a command-line tool for quickly compiling and running C++ programs with customizable options.
 
