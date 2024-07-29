@@ -8,7 +8,7 @@ This GitHub repository serves as a central directory, guiding you through my div
 
 ## Collection of personal projects <a id="collection-of-personal-projects"></a>
 
-[A](#a) - [C](#c) - [N](#n) - [M](#m) - [S](#s) - [T](#t) 
+[A](#a) - [C](#c) - [E](#e) - [M](#m) - [N](#n) - [S](#s) - [T](#t)
   
 ## A <a id="a"></a>
 - [PUBLIC ARCHIVE] [Artplatforma](https://github.com/Patzi275/artplatforma) - implementation of a designer event landing page by tubik on dribbble
@@ -17,16 +17,21 @@ This GitHub repository serves as a central directory, guiding you through my div
 - [Chess Java](https://github.com/Patzi275/chess-java) - customizable chess game in Java swing using design patterns
 - [Cpprun](https://github.com/Patzi275/cpprun) - a command-line tool for quickly compiling and running C++ programs with customizable options.
 
+## E <a id="e"></a>
+- [Express typescript api boilerplate](https://github.com/Patzi275/express-typescript-api-boilerplate) - A boilerplate for building RESTful APIs with Express and TypeScript
+
 ## N <a id="n"></a>
 - [PUBLIC ARCHIVE] [New year resolutions 2024](https://github.com/Patzi275/new-year-resolutions-2024) - Collaborative note board
 
 ## M <a id="m"></a>
 - [Mini Jukebox](https://github.com/Patzi275/mini-jukebox) - a music player in a small and discret window made using Qt5
 - [Molecular Weight Calculator](https://github.com/Patzi275/molecular-weight-calculator) - C program that calculates the molecular weight of a chemical formula
+- [Minimalistic Blog Template](https://github.com/Patzi275/minimalistic-blog-template) - A minimalistic and responsive blog template made with Nextjs and Tailwind CSS
 
 ## S <a id="s"></a>
 - [Square Fall](https://github.com/Patzi275/pygame-playground/tree/main/square_fall) - a fast-paced and challenging game where the objective is to avoid falling squares (made with Pygame)
 - [Square Shift](https://github.com/Patzi275/pygame-playground/tree/main/square_shift) - a casual game made using pygame
+- [Surge volt](https://github.com/Patzi275/surge-volt) - Integration of the Surge static web publishing tool into Visual Studio Code
 
 ## T <a id="t"></a>
 - [Text Three Match](https://github.com/Patzi275/text-match-three-cli) - A text-based matching game inspired by games like Candy Crush
